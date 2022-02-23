@@ -20,4 +20,4 @@ Passes: some pass demos
 
 ## blogs
 
-[llvm 使用手册](http://blog.airchen-space.top/2020/02/09/llvm.html)
+[llvm 使用手册](https://blog.airchen-space.top/posts/llvm/)
